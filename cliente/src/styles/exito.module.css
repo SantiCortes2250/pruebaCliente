@@ -1,0 +1,29 @@
+.on{
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+   background-color: rgba(43, 163, 219, 1);
+   color: white;
+   border-radius: 20px;
+   position: absolute;
+   top: 0;
+   margin-top: 70px;
+   transition: all 2s;
+}
+
+
+.off{
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+   background-color: rgba(43, 163, 219, 1);
+   color: white;
+   border-radius: 20px;
+   position: absolute;
+   top: 0;
+   margin-top: -100px;
+   transition: all 2s;
+   
+}
